@@ -1,6 +1,6 @@
 # PRODIGY_FS_Task4
 ### Task 4
-![Task4]([https://github.com/SarthakJambe16/PRODIGY_FS_Task4/blob/main/Task4.jpg](https://github.com/Whosnameisbhushan/PRODIGY_FS_Task4/blob/main/Task4.jpg))
+![Task4](https://github.com/Whosnameisbhushan/PRODIGY_FS_Task4/blob/main/Task4.jpg)
 
 ## Prodigy Infotech Intership Task 4 
 # WebSocket Chat Application
